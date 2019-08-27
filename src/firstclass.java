@@ -7,5 +7,8 @@ public class firstclass {
         System.out.println("测试git");
         System.out.println("测试git");
         System.out.println("测试git");
+        for (int i = 0; i <10 ; i++) {
+            System.out.println("111111");
+        }
     }
 }
